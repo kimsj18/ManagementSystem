@@ -145,3 +145,12 @@ ManagementSystem/
 - [MySQL 공식 문서](https://dev.mysql.com/doc/)
 - [Java JDBC 튜토리얼](https://docs.oracle.com/javase/tutorial/jdbc/)
 - [MySQL 저장 프로시저 가이드](https://www.mysqltutorial.org/getting-started-with-mysql-stored-procedures.aspx)
+
+
+---
+
+## 프로젝트로 인해 느낀점
+처음으로 해보는 팀프로젝트, 새로운 것을 배우는것을 넘어 협업은 역시 어렵다는 것을 또한번 느꼈다.
+학생 모델을 담당하였으며, 입출력, 수정 등 배웠던 내용들을 확실하게 복습할수 있었다.
+
+또한 협업에 있어 깃허브 사용이 중요하다는 것을 다시한번 느낄 수 있었다. 
